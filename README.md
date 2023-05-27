@@ -23,4 +23,4 @@ Browsers:
 [Medium Writeup](https://medium.com/@m_93939/building-a-browser-extension-to-remove-utm-parameters-from-urls-considerations-and-lessons-learned-707fd13d6e53)
 
 Languages Used:
-- Javascript
+- Javascript, HTML, CSS
